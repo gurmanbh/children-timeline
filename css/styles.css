@@ -1,0 +1,13 @@
+*{
+	-web-kit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+.temp-loading{
+	font-size: 3em;
+	text-align: center;
+	color: #558783;
+}
+
