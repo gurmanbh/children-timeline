@@ -235,27 +235,7 @@
 .tik-tok-container .tt-entry .tt-entry-source > *.code-block:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 750px) {
-  .tik-tok-container .tt-entry .tt-entry-media-wrapper.with-body,
-  .tik-tok-container .tt-entry .tt-entry-body-wrapper.with-media {
-    width: 50%;
-    float: right;
-  }
-  .tik-tok-container .tt-entry .tt-entry-media-wrapper.with-body {
-    margin-bottom: 0;
-    padding-left: 1em;
-  }
-  .tik-tok-container .tt-entry .tt-entry-media-wrapper.with-body .tt-entry-media {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .tik-tok-container .tt-entry .tt-entry-body-wrapper.with-media {
-    padding-right: 1em;
-  }
-  .tik-tok-container .tt-entry .tt-entry-source {
-    margin-bottom: 0;
-  }
-}
+
 .tik-tok-container .tt-progress-bar {
   position: fixed;
   top: 0;
