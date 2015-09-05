@@ -31,7 +31,8 @@
 	      date: 'Year: 2012, Month: Nov, Day: 20',
 	      customTitle: 'Gaza City, Palestinian Territories',
 	      body: 'This photograph from Nov. 20, 2012, shows 2-year-old Suhaib Hijazi and his older brother Muhammad -- who were killed when their house was destroyed by an Israeli missile strike. -- carried by their uncles to a  mosque for their burial ceremony. The photograph was award a prestigious World Press Photo Award.',
-	      media:'http://www.poynter.org/wp-content/uploads/2015/09/WPP-Winner-20134156.jpg'
+	      media:'http://www.poynter.org/wp-content/uploads/2015/09/WPP-Winner-20134156.jpg',
+	      source:'Associated Press / Paul Hansen, Dagens Nyheter'
 	    },
 	    {
 	      date: 'Year: 2008, Month: Sep, Day: 7',
