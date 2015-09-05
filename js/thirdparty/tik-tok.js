@@ -5,12 +5,13 @@
  * @license MIT
  */
 /* global define:false */
-var pymChild = new pym.Child();
+
 
 'use strict';
 
 // Wrap so that we can support different module loaders
 (function(root, factory) {
+
   // Common JS (i.e. browserify) or Node.js environment
   if (typeof module !== 'undefined' && module.exports && typeof require === 'function') {
     module.exports = factory(require('underscore'), require('moment'));
@@ -85,7 +86,6 @@ var pymChild = new pym.Child();
       this.validate();
       this.build();
       this.render();
-      pymChild.sendHeight()
     },
 
     // Add entries to existing entries.
