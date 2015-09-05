@@ -1,7 +1,5 @@
 (function(){
 
-	var pymChild = new pym.Child();
-
 	var tikTok = new TikTok({
 	  el: '#options-tik-tok',
 	  dateFormat: '[Year:] YYYY, [Month:] MMM, [Day:] DD',

@@ -5,6 +5,7 @@
  * @license MIT
  */
 /* global define:false */
+var pymChild = new pym.Child();
 
 'use strict';
 
